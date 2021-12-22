@@ -1,0 +1,2 @@
+rm -f BUILD/*.class
+javac -cp LIB/* -d BUILD SRC/*.java
