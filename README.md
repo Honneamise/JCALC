@@ -1,2 +1,4 @@
 # JCALC
- a simple JAVA expression calculator
+A simple JAVA expression calculator stack based
+
+![menu](jcalc.png)
